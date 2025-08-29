@@ -269,6 +269,7 @@ document.getElementById("bangladesh").addEventListener("click",function(e){
 
     document.getElementById("coin").innerText =coin;
     alert("Calling Bangladesh Railway Service 163..");
+    
 
 const data = {
       name:"বাংলাদেশ রেলওয়ে",
